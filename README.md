@@ -58,7 +58,7 @@ Stress-Classification-Model/
 <p>📷 Example (replace with your plots):</p>
 <p align="center">
   <img src="assets/confusion_matrix.png" width="400" />
-  <img src="assets/accuracy_plot.png" width="400" />
+  <img src="assets/accuracy_plot.png" width="438" />
 </p>
 
 <h2>🛠️ Tech Stack</h2>
