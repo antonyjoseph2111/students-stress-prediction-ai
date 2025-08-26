@@ -28,7 +28,7 @@ to classify stress. The notebook trains a <b>TensorFlow/Keras model</b>, evaluat
 <pre>
 # Clone repository
 git clone https://github.com/antonyjoseph2111/students-stress-prediction-ai
-cd YOUR_REPO
+cd students-stress-prediction-ai
 
 # Install dependencies
 pip install -r requirements.txt
@@ -55,10 +55,9 @@ Stress-Classification-Model/
   <li><b>Export:</b> .h5 & .tflite</li>
 </ul>
 
-<p>📷 Example (replace with your plots):</p>
 <p align="center">
   <img src="assets/confusion_matrix.png" width="400" />
-  <img src="assets/accuracy_plot.png" width="438" />
+  <img src="assets/accuracy_plot.png" width="400" />
 </p>
 
 <h2>🛠️ Tech Stack</h2>
@@ -67,13 +66,6 @@ Stress-Classification-Model/
   <li>TensorFlow / Keras</li>
   <li>scikit-learn, pandas, numpy</li>
   <li>matplotlib, seaborn</li>
-</ul>
-
-<h2>🔮 Future Improvements</h2>
-<ul>
-  <li>Deploy demo on <b>Streamlit Cloud / HuggingFace Spaces</b></li>
-  <li>Add interactive <b>student questionnaire UI</b></li>
-  <li>Test other models (<b>XGBoost / RandomForest</b>)</li>
 </ul>
 
 <h2>👨‍💻 Author</h2>
