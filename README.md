@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/badge/Keras-DL-red?style=for-the-badge&logo=keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-green?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Status-Showcase-success?style=for-the-badge" />
 </p>
 
 <hr/>
@@ -28,7 +27,7 @@ to classify stress. The notebook trains a <b>TensorFlow/Keras model</b>, evaluat
 <h2>🧭 Quick Start</h2>
 <pre>
 # Clone repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO
+git clone https://github.com/antonyjoseph2111/students-stress-prediction-ai
 cd YOUR_REPO
 
 # Install dependencies
@@ -79,7 +78,7 @@ Stress-Classification-Model/
 
 <h2>👨‍💻 Author</h2>
 <p><b>Antony</b> — AI/ML Enthusiast</p>
-<p>GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></p>
+<p>GitHub: <a href="https://github.com/antonyjoseph2111">antonyjoseph2111</a></p>
 
 <h2>📄 License</h2>
 <p>MIT License — include a LICENSE file in repo.</p>
