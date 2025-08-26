@@ -77,11 +77,11 @@ Stress-Classification-Model/
 </ul>
 
 <h2>👨‍💻 Author</h2>
-<p><b>Antony</b> — AI/ML Enthusiast</p>
+<p><b>Antony Joseph</p>
 <p>GitHub: <a href="https://github.com/antonyjoseph2111">antonyjoseph2111</a></p>
 
 <h2>📄 License</h2>
-<p>MIT License — include a LICENSE file in repo.</p>
+<p><a href="https://github.com/antonyjoseph2111">MIT License</a></p>
 
 <hr/>
 <p align="center">⭐ If you find this useful, give it a star!</p>
