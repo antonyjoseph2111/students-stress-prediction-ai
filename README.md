@@ -81,7 +81,7 @@ Stress-Classification-Model/
 <p>GitHub: <a href="https://github.com/antonyjoseph2111">antonyjoseph2111</a></p>
 
 <h2>📄 License</h2>
-<p><a href="https://github.com/antonyjoseph2111">MIT License</a></p>
+<p><a href="https://github.com/antonyjoseph2111/students-stress-prediction-ai/blob/main/LICENSE">MIT License</a></p>
 
 <hr/>
 <p align="center">⭐ If you find this useful, give it a star!</p>
